@@ -20,7 +20,7 @@ repos:
       - id: check-toml
       - id: check-yaml
       - id: no-commit-to-branch
-        args: [--branch, develop]
+        args: [--branch, main]
 
   - repo: https://github.com/asottile/reorder-python-imports
     rev: v3.12.0
